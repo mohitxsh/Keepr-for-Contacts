@@ -1,6 +1,3 @@
-# Keepr-for-Contacts
-Full fledged contact manager app.
--------------------------------------
-Frontend -> React
-******************
-Backend -> Express, MongoDB
+# Contact Keeper
+
+> Full stack MERN contact manager with React hooks, context & JWT authentication.
